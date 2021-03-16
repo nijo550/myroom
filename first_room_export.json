@@ -90,8 +90,8 @@
          "type":"tilelayer",
          "visible":true,
          "width":32,
-         "x":5,
-         "y":5
+         "x":0,
+         "y":0
         }, 
         {
          "draworder":"topdown",
