@@ -1,1 +1,1 @@
-Regel_1.tsx
+Regel_1.tmx
