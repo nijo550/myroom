@@ -208,7 +208,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"first_room_2#Main-Talk"
+                 "value":"first_room_2.json#Main-Talk"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -226,7 +226,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"first_room_2#Gruppe1_Hintergrund"
+                 "value":"first_room_2.json#Gruppe1_Hintergrund"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -445,6 +445,12 @@
  "nextlayerid":40,
  "nextobjectid":4,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"StartLayer",
+         "type":"bool",
+         "value":true
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
