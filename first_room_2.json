@@ -47,7 +47,7 @@
                  "value":"Main-Talk"
                 }, 
                 {
-                 "name":"startlayer",
+                 "name":"startLayer",
                  "type":"bool",
                  "value":true
                 }],
