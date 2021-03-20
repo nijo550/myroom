@@ -42,14 +42,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"StartLayer",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Main-Talk"
-                }, 
-                {
-                 "name":"startLayer",
-                 "type":"bool",
-                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
