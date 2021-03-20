@@ -49,7 +49,7 @@
                 {
                  "name":"startLayer",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -167,7 +167,7 @@
                 {
                  "name":"startLayer",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -284,7 +284,7 @@
                 {
                  "name":"startLayer",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -325,7 +325,7 @@
                 {
                  "name":"startLayer",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }],
          "type":"tilelayer",
          "visible":true,
