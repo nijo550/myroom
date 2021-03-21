@@ -191,7 +191,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"first_room_2.json#Main-Talk"
+                 "value":"first_room_export.json#Main-Talk"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -209,7 +209,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"first_room_2.json#Gruppe2_Hintergrund"
+                 "value":"first_room_export.json#Gruppe2_Hintergrund"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -250,7 +250,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"first_room_2.json#Main-Talk"
+                 "value":"first_room_export.json#Main-Talk"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -268,7 +268,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"first_room_2.json#Gruppe1_Hintergrund"
+                 "value":"first_room_export.json#Gruppe1_Hintergrund"
                 }],
          "type":"tilelayer",
          "visible":true,
