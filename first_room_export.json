@@ -216,7 +216,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#Main-Talk_start"
+                 "value":"first_room_export.json#Main-Talk_start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -234,7 +234,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#Gruppe2_start"
+                 "value":"first_room_export.json#Gruppe2_start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -287,7 +287,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#Main-Talk_start"
+                 "value":"first_room_export.json#Main-Talk_start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -305,7 +305,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#Gruppe1_start"
+                 "value":"first_room_export.json#Gruppe1_start"
                 }],
          "type":"tilelayer",
          "visible":true,
