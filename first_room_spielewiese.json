@@ -420,7 +420,7 @@
                  "value":"https:\/\/nijo550.github.io\/"
                 }, 
                 {
-                 "name":"openWebsitePolicy:",
+                 "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"camera; microphone"
                 }],
