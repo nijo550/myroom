@@ -80,7 +80,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Main-Talk"
+                 "value":"Main-Der-Talk"
                 }],
          "type":"tilelayer",
          "visible":true,
