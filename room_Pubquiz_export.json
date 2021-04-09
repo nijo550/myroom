@@ -205,7 +205,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/nijo550.github.io\/myroom\/first_room_export.json#Main-Talk_start"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/nijo550.github.io\/myroom\/room_Pubquiz_export.json#Main-Talk_start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -223,7 +223,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/nijo550.github.io\/myroom\/first_room_export.json#Gruppe2_start"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/nijo550.github.io\/myroom\/room_Pubquiz_export.json#Gruppe2_start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -265,7 +265,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/nijo550.github.io\/myroom\/first_room_export.json#Main-Talk_start"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/nijo550.github.io\/myroom\/room_Pubquiz_export.json#Main-Talk_start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -283,7 +283,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/nijo550.github.io\/myroom\/first_room_export.json#Gruppe1_start"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/nijo550.github.io\/myroom\/room_Pubquiz_export.json#Gruppe1_start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -313,7 +313,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/document\/d\/1oqe6qdHfSd5RowwM7rgY7DESAMgHYJqURHzjW-27-Ew\/edit"
+                 "value":"https:\/\/docs.google.com\/document\/d\/1GxK28QaFtckNlkZzPq9R-T4vz7JF1VRu-S3JKm6RWXE\/edit"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -331,7 +331,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1arzBWV2lKA20YwQ8NtLbTxWI-oBHLPfliVSKXwXtSCI\/edit#gid=0"
+                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1oUKWFU6ztDTnJZdSIWhiWg2MFF6cebfzUaCIkTw97DU\/edit?usp=sharing"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -349,7 +349,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/document\/d\/1o-1hzAzrQB_VAR4XGD5NUiGCjiCaShqfq64ByhipaoQ\/edit?usp=sharing"
+                 "value":"https:\/\/docs.google.com\/document\/d\/1WISLgBRk0tbIgJlOGpiv-UL_CsscxpXgWQW1ExNI4qw\/edit?usp=sharing"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -364,6 +364,11 @@
          "name":"Silence",
          "opacity":1,
          "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/watch?v=VhgzJQkNKZM"
+                }, 
                 {
                  "name":"silent",
                  "type":"bool",
