@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"first_room_spiel_export.json"
+         "target":"room_Pubquiz_export.json"
         }
     },
  "height":32,
@@ -43,7 +43,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"camera; microphone"
+                 "value":"fullscreen; camera; microphone"
                 }],
          "type":"tilelayer",
          "visible":true,
