@@ -177,6 +177,12 @@
          "id":54,
          "name":"Functionsspeicher",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1HnQfsy9Pbq7M0pSKuVQkHp8kiIX3Kw4d910Y15l5S4c\/edit#gid=0"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -191,7 +197,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"Openwebsite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/script.google.com\/home\/projects\/1hARY3OA6StlWWiuBVnzr1DQ98mHKQL6mnwRnlPIXaHwk0nYE9RU08se-\/edit"
                 }],
