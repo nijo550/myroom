@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/nijo550.github.io\/myroom\/Vorbereitung_Export.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/nijo550.github.io\/myroom\/Vorbereitung_Export.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
