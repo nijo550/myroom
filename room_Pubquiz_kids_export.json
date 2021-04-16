@@ -3,7 +3,8 @@
     {
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"room_Pubquiz_export.json"
         }
     },
  "height":60,
@@ -6300,6 +6301,15 @@
          "tilecount":216,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"Tileset",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
                 {
                  "id":85,
                  "probability":2

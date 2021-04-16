@@ -6302,6 +6302,15 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"Tileset",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
                  "id":85,
                  "probability":2
                 }, 
