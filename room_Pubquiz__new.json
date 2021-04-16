@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"room_Pubquiz_e.json"
+         "target":"room_Pubquiz__new_export.json"
         }
     },
  "height":60,
