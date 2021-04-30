@@ -522,7 +522,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"room_Pubquiz_kids2_export.json#Gruppe6_start"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/nijo550.github.io\/myroom\/room_Pubquiz_kids2_export.json#Gruppe6_start"
                 }],
          "type":"tilelayer",
          "visible":true,
